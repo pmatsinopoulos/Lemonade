@@ -5,4 +5,8 @@
     <string name="glass_of_lemonade">Glass of lemonade</string>
     <string name="empty_glass">Empty glass</string>
     <string name="lemonade">Lemonade</string>
+    <string name="step_1_prompt">Tap the lemon tree to select a lemon</string>
+    <string name="step_2_prompt">Keep tapping the lemon to squeeze it</string>
+    <string name="step_3_prompt">Tap the lemonade to drink it</string>
+    <string name="step_4_prompt">Tap the empty glass to start again</string>
 </resources>
